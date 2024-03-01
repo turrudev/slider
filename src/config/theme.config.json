@@ -1,0 +1,14 @@
+{
+  "normal": {
+    "appBackground": "#282c34",
+    "appText": "white",
+    "thumb": "green",
+    "track": "grey"
+  },
+  "dark": {
+    "appBackground": "#282c34",
+    "appText": "white",
+    "thumb": "green",
+    "track": "grey"
+  }
+}
